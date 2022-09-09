@@ -7,6 +7,7 @@ we created and release a first-of-its-kind, publicly available motion capture da
 
 
 ## Folder Description
+！[image](https://github.com/ButterflyDataset/butterflymotiondatasets/blob/main/visualization/teaser_01.png)
 ### Comparison
 
 https://user-images.githubusercontent.com/113167026/189358968-93639d66-c03b-4cf5-aac4-826ed3c27491.mp4
