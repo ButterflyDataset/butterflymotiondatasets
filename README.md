@@ -11,6 +11,7 @@ motion, (B) the butterfly motion processed by our method, and (C) visualization 
 
 
 ### Comparison
+Comparisons between our method and existing methods. The wiped data (green dashed) denotes a randomly selected portion of the ground-truth data that is intentionally removed for this comparison purpose.
 ![image](https://github.com/ButterflyDataset/butterflymotiondatasets/blob/main/visualization/Comparisons.gif)
 
 
