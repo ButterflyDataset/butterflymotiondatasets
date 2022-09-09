@@ -8,6 +8,7 @@ we created and release a first-of-its-kind, publicly available motion capture da
 
 ## Folder Description
 ###Comparison
+
 https://user-images.githubusercontent.com/113167026/189357253-940695c1-f4e2-443b-9dc6-335d116e8308.mp4
 
 
