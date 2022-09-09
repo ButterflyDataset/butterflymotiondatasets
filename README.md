@@ -6,7 +6,7 @@ we created and release a first-of-its-kind, publicly available motion capture da
 
 
 
-## Folder Description
+## Our method
 Figure 1 show examples of motion-captured trajectories of the thorax and wings of a flying butterfly by our method.
 ![image](https://github.com/ButterflyDataset/butterflymotiondatasets/blob/main/visualization/teaser_01.png)
 Figure 1: The motion-captured trajectories of the thorax and wings of a flying butterfly. (A) The original captured butterfly
