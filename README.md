@@ -13,7 +13,7 @@ Figure 1: The motion-captured trajectories of the thorax and wings of a flying b
 motion, (B) the butterfly motion processed by our method, and (C) visualization of the obtained butterfly flight motion.
 ### Comparison
 
-https://user-images.githubusercontent.com/113167026/189358968-93639d66-c03b-4cf5-aac4-826ed3c27491.mp4
+![image](https://github.com/ButterflyDataset/butterflymotiondatasets/blob/main/visualization/Comparisons.gif)
 
 
 
