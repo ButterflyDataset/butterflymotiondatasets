@@ -10,7 +10,7 @@ Figure 1: The motion-captured trajectories of the thorax and wings of a flying b
 motion, (B) the butterfly motion processed by our method, and (C) visualization of the obtained butterfly flight motion.
 
 
-### Comparison
+## Comparison
 Comparisons between our method and existing methods. The wiped data (green dashed) denotes a randomly selected portion of the ground-truth data that is intentionally removed for this comparison purpose.
 ![image](https://github.com/ButterflyDataset/butterflymotiondatasets/blob/main/visualization/Comparisons.gif)
 
