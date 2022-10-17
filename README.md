@@ -1,6 +1,5 @@
-# butterflies motion datasets
-
-we created and release a first-of-its-kind, publicly available motion capture dataset of a swallow-tail butterfly (Papilio polytes) to research community. Complete long-distance or long-duration flight data, including 18 flight segments from 5 different butterflies, of free-flying swallowtail butterflies.
+## A butterflies motion datasets of MIG 2022 paper. 
+We created and release a first-of-its-kind, publicly available motion capture dataset of a swallow-tail butterfly (Papilio polytes) to research community. Complete long-distance or long-duration flight data, including 18 flight segments from 5 different butterflies, of free-flying swallowtail butterflies.  
 
 
 ## Our method
@@ -18,13 +17,13 @@ Comparisons between our method and existing methods. The wiped data (green dashe
 
 ## Citation
 
-Please cite the following paper if you find our work useful.
-``` C#
-@inproceedings{chen2022practical,
-  title={A Practical Method for Butterfly Motion Capture},
-  author={Chen, Qiang and Lu, Tingsong and Tong, Yang and Fang, Yuming and Deng, Zhigang},
-  booktitle={Proceedings of the ACM SIGGRAPH Conference on Motion, Interaction and Games},
-  pages={1--9},
-  year={2022}
-}
+Please cite the following paper if you find our work useful.  
+```
+@inproceedings{chen2022practical,  
+  title={A Practical Method for Butterfly Motion Capture},  
+  author={Chen, Qiang and Lu, Tingsong and Tong, Yang and Fang, Yuming and Deng, Zhigang},  
+  booktitle={Proceedings of the ACM SIGGRAPH Conference on Motion, Interaction and Games},  
+  pages={1--9},  
+  year={2022}  
+}  
 ```
