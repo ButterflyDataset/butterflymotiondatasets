@@ -19,10 +19,3 @@ Comparisons between our method and existing methods. The wiped data (green dashe
 ## Citation
 
 Please cite the following paper if you find our work useful.
-@inproceedings{chen2022practical,
-  title={A Practical Method for Butterfly Motion Capture},
-  author={Chen, Qiang and Lu, Tingsong and Tong, Yang and Fang, Yuming and Deng, Zhigang},
-  booktitle={Proceedings of the ACM SIGGRAPH Conference on Motion, Interaction and Games},
-  pages={1--9},
-  year={2022}
-}
